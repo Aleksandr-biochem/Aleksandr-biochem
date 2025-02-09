@@ -9,6 +9,7 @@
 ## Find me on:
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/alekkov.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-kovalenko-bioinformatician/)
 
+![](https://github-readme-stats.vercel.app/api?username=Aleksandr-biochem&theme=default&hide_border=false&include_all_commits=True&count_private=True)<br/>
 
 ## 💻 Skills:
 
